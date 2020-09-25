@@ -5,9 +5,11 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "immer": "7.0.9",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "use-immer": "0.4.1"
   },
   "devDependencies": {
     "typescript": "3.8.3"

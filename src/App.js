@@ -7,6 +7,8 @@ export default function App() {
 
   return (
     <div className="App">
+      <h1>App</h1>
+
       <button onClick={() => setCount((c) => c + 1)}>+</button>
 
       <div>count : {count}</div>
